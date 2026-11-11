@@ -1,0 +1,12 @@
+.env
+node_modules
+
+# Sensitive and uploaded files
+backend/uploads/
+frontend/public/pancard.jpeg
+frontend/public/*.pdf
+frontend/public/*.pptx
+frontend/public/yash.jpg
+node_modules/
+.env
+**/.env
